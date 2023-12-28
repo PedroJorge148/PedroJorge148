@@ -7,7 +7,7 @@
 I'm here to improve something in people's lives through technology.
 
 **About Me** 
-- I love programming all the time ❤️
+- I love coding all the time ❤️
 - Computer Science Student 🎓 
 - I'm currently learning Next Js 🚀 
 

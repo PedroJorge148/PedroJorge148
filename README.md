@@ -1,7 +1,7 @@
 <h1>Hi, I'm Pedro Jorge, a Full Stack Developer 👨🏻‍💻🚀</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrojorge258/)](https://www.linkedin.com/in/orodrigogo/) 
-[![Gmail Badge](https://img.shields.io/badge/-pedrojorge2011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrojorge2011@gmail.com)](mailto:rodrigorgtic@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrojorge258/)](https://www.linkedin.com/in/pedrojorge258/) 
+[![Gmail Badge](https://img.shields.io/badge/-pedrojorge2011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrojorge2011@gmail.com)](mailto:pedrojorge2011@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrojrg_)](https://www.instagram.com/pedrojrg_/)
 
 I'm here to improve something in people's lives through technology.

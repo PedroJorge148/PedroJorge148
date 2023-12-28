@@ -1,4 +1,31 @@
-### Hi there 👋
+<h1>Hi, I'm Pedro Jorge, a Full Stack Developer 👨🏻‍💻🚀</h1>
+
+I'm here to improve something in people's lives through technology.
+
+**About Me** 
+- I love programming all the time ❤️
+- Computer Science Student 🎓 
+- I'm currently learning Next Js 🚀 
+
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=git,react,nodejs,ts,tailwindcss,nextjs,prisma)](https://skillicons.dev)
+
+## My Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=pedrojorge148&theme=whatsapp-dark2&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)&nbsp;&nbsp;
+[![Pedro Jorge's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pedrojorge148&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## My Repositories
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojorge148&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Find me anywhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrojorge258/)](https://www.linkedin.com/in/orodrigogo/) 
+[![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrojorge2011@gmail.com)](mailto:rodrigorgtic@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrojrg_)](https://www.instagram.com/pedrojrg_/)
+
+
+
 
 <!--
 **PedroJorge148/PedroJorge148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

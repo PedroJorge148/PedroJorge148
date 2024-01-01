@@ -12,7 +12,7 @@ I'm here to improve something in people's lives through technology.
 - I'm currently learning Next Js 🚀 
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=git,react,nodejs,ts,tailwindcss,nextjs,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,react,nodejs,ts,tailwindcss,nextjs,postgres,prisma)](https://skillicons.dev)
 
 ## My Activity
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedrojorge148&theme=whatsapp-dark2&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)&nbsp;&nbsp;

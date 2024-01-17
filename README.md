@@ -15,7 +15,7 @@ I'm here to improve something in people's lives through technology.
 [![My Skills](https://skillicons.dev/icons?i=git,react,nodejs,ts,tailwindcss,nextjs,postgres,prisma)](https://skillicons.dev)
 
 ## My Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=PedroJorge148&theme=whatsapp-dark2&exclude_days=Sun%2CMon%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PedroJorge148&theme=whatsapp-dark2&exclude_days=Sun%2CMon%2CSat)]([https://git.io/streak-stats](https://streak-stats.demolab.com?user=PedroJorge148&theme=whatsapp-dark2&exclude_days=Sun%2CMon%2CSat))
 
 ## My Repositories
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojorge148&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

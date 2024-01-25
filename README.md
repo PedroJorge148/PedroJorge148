@@ -9,7 +9,7 @@ I'm here to improve something in people's lives through technology.
 **About Me** 
 - I love coding all the time ❤️
 - Computer Science Student 🎓 
-- I'm currently learning Docker, DDD and some DevOps utilities 🚀 
+- I'm currently learning Docker, DDD, AWS and some others DevOps utilities 🚀 
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=git,react,nodejs,ts,tailwindcss,nextjs,postgres,prisma)](https://skillicons.dev)
